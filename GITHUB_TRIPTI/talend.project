@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pgUhUPeTEeyQ4q8JWOo20w" label="github_tripti" language="java" technicalLabel="GITHUB_TRIPTI" author="_pgUhUfeTEeyQ4q8JWOo20w" productVersion="Talend Cloud Data Fabric-8.0.1.20220524_1230-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tmishratalend/abc.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_phBr8PeTEeyQ4q8JWOo20w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_pgUhUfeTEeyQ4q8JWOo20w" login="tmishra@support.talend.eu" firstName="Tripti" lastName="Mishra" type="DQ"/>
+</xmi:XMI>
